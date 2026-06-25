@@ -1,3 +1,4 @@
+
 # sensor de sonido
 - Andrés Freite
 - Abel Garcia
@@ -64,3 +65,4 @@ Sensor de sonido |	 1	|Detección de señales  |acústicas
 Resistencia 220 Ω	|1|	|Protección del LED
 Protoboard|	|1|	|Montaje del circuito
 Jumpers	Varios|	|Conexiones eléctricas
+<img width="414" height="233" alt="Captura de pantalla 2026-06-16 180554" src="https://github.com/user-attachments/assets/0ea5af30-1c69-4fd0-b7fe-7a85fbf05cf0" />
