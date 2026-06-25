@@ -15,3 +15,52 @@ La implementación de un detector de sonido permite desarrollar soluciones para 
 Objetivo general
 
 Diseñar e implementar un sistema detector de sonido basado en Arduino Uno capaz de activar un indicador luminoso cuando la intensidad acústica supere un umbral determinado.
+
+Pruebas Realizadas
+
+Prueba	Descripción	Resultado
+Lectura del sensor:	Aplausos y golpes	Correcta
+
+Activación del LED:	Sonido superior al umbral	Exitosa
+
+Calibración	Ajuste del potenciómetro:	Adecuada
+
+Prueba integral	Sistema completo:	Funcionamiento correcto
+
+Dificultades encontradas
+•	Ajuste del nivel de sensibilidad del sensor.
+
+•	Presencia de ruido ambiental.
+
+•	Falsas activaciones durante las pruebas.
+
+•	Necesidad de calibrar el potenciómetro del módulo.
+
+Conclusiones
+•	Se comprobó el funcionamiento del convertidor analógico-digital del Arduino.
+
+•	Fue posible detectar variaciones sonoras y procesarlas mediante programación.
+
+•	El sistema responde de manera inmediata a estímulos acústicos.
+
+•	Se integraron sensores, programación y actuadores en una aplicación real de automatización.
+
+•	Detectar señales acústicas mediante un sensor de sonido.
+
+•	Procesar la información utilizando un Arduino Uno.
+
+•	Activar un LED cuando la intensidad del sonido supere un valor establecido.
+
+•	Ajustar la sensibilidad del sistema mediante calibración.
+
+•	Verificar el funcionamiento del prototipo mediante pruebas experimentales.
+
+Componentes utilizados
+
+Componente	 |Cantidad	| Función
+Arduino Uno R3	| 1	|Controlador | principal
+Sensor de sonido |	 1	|Detección de señales  |acústicas
+ LED	1	 |Indicador  |visual
+Resistencia 220 Ω	|1|	|Protección del LED
+Protoboard|	|1|	|Montaje del circuito
+Jumpers	Varios|	|Conexiones eléctricas
